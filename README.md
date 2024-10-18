@@ -11,4 +11,6 @@ Lista de atividades:
 - [Link para a atividade 3](Atividade3.html)
 - Atividade 4
 - [Link para a atividade 4](Atividade4.html)
+- Atividade 5
+- [Link para a atividade 4](Atividade5.html)
 
