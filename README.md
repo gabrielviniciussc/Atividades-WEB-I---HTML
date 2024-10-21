@@ -23,18 +23,22 @@ Lista de atividades:
 - Link: [Atividade 4](Atividade4.html)
 ##
 
-- Atividade 5
+## Atividade 5
 
-[Link para a atividade 5](Atividade5.html)
+- Link: [Atividade 5](Atividade5.html)
+##
 
-- Atividade 6
+## Atividade 6
 
-[Link para a atividade 6](Atividade6.html)
+- Link:[Atividade 6](Atividade6.html)
+##
 
-- Atividade 7
+## Atividade 7
 
-[Link para a atividade 7](Atividade7.html)
-- Atividade 8
+- Link: [Atividade 7](Atividade7.html)
+##
 
-[Link para a atividade 8](Atividade8.html)
+## Atividade 8
+
+- Link: [Atividade 8](Atividade8.html)
 
