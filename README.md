@@ -11,7 +11,8 @@ Lista de atividades:
 __
 - Atividade 2
 
--[Link para a atividade 2](Atividade2.html)
+-Link: [Atividade 2](Atividade2.html)
+##
 - Atividade 3
 
 [Link para a atividade 3](Atividade3.html)
