@@ -3,9 +3,10 @@ Repositório das atividades (HTML) da disciplina de Web I
 
 
 Lista de atividades:
-- Atividade 1
 
+- Atividade 1
 [Link para a atividade 1](Atividade1.html)
+--
 - Atividade 2
 
 -[Link para a atividade 2](Atividade2.html)
