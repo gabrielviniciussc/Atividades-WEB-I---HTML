@@ -4,7 +4,7 @@ Repositório das atividades (HTML) da disciplina de Web I
 
 Lista de atividades:
 
-- Atividade 1
+## Atividade 1
   
 [Link para a atividade 1](Atividade1.html)
 
