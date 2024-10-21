@@ -30,7 +30,7 @@ Lista de atividades:
 
 ## Atividade 6
 
-- Link:[Atividade 6](Atividade6.html)
+- Link: [Atividade 6](Atividade6.html)
 ##
 
 ## Atividade 7
