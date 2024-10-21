@@ -41,4 +41,8 @@ Lista de atividades:
 ## Atividade 8
 
 - Link: [Atividade 8](Atividade8.html)
+##
 
+## Atividade 9
+
+- Link: [Atividade 9](Atividade9.html)
