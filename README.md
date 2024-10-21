@@ -8,11 +8,11 @@ Lista de atividades:
   
 [Link para a atividade 1](Atividade1.html)
 
-__
-- Atividade 2
+
+## Atividade 2
 
 -Link: [Atividade 2](Atividade2.html)
-##
+
 - Atividade 3
 
 [Link para a atividade 3](Atividade3.html)
