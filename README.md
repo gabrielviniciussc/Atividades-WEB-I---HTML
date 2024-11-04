@@ -61,6 +61,16 @@ Lista de atividades:
 ## Atividade 12
 
 - Link: [Atividade 12](Atividade12.html)
+##
 
+## Atividade 13
+
+- Link: [Atividade 13](Atividade13.html)
+##
+
+## Atividade 14
+
+- Link: [Atividade 14](Atividade14.html)
+##
 
 
